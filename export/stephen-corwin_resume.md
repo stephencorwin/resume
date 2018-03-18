@@ -30,7 +30,7 @@ B.S. in Computer and Information Sciences
 - Email Distribution System &ndash; HubSpot
 
 ## Experience
-**Under Armour, Baltmore, MD**  
+**Under Armour, Baltimore, MD**  
 Software Engineer &ndash; Contractor  
 *June 2017 &ndash; March 2018*  
 - Developed site manager portal which housed tooling used by customer service representatives (Node.js, Styled Components, React, Redux)
