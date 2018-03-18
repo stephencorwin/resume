@@ -1,0 +1,19 @@
+{
+  "name": "@stephencorwin/resume",
+  "title": "Stephen Corwin Resume",
+  "version": "1.0.4",
+  "keywords": [
+    "stephen corwin, resume"
+  ],
+  "description": "A detailed catalog of my past work-related experiences.",
+  "author": "Stephen Corwin <stephenjcorwin@gmail.com> (https://stephencorwin.me/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephencorwin/resume.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stephencorwin/resume/issues"
+  },
+  "homepage": "https://github.com/stephencorwin/resume"
+}
