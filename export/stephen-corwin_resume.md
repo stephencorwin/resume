@@ -1,4 +1,4 @@
-> [stephencorwin.me](http://stephenjcorwin.me) | 
+> [stephencorwin.me](https://stephencorwin.me) | 
 [stephenjcorwin@gmail.com](mailto:stephenjcorwin@gmail.com) | 
 [919.478.1889](tel:9194781889)
 
