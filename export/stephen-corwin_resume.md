@@ -31,14 +31,9 @@ B.S. in Computer and Information Sciences
 - Email Distribution System &ndash; HubSpot
 
 ## Experience
-**Under Armour, Baltimore, MD**  
-Software Engineer &ndash; Contractor  
-*June 2017 &ndash; March 2018*  
-- Developed site manager portal which housed tooling used by customer service representatives (Node.js, Styled Components, React, Redux)
-- Migrated existing LESS styling to use Styled Components (React, Styled Components, LESS)
-- Developed API and Service endpoints (Node.js, Sequelize, Protobuf, Swagger)
-- Integrated Auth0 flow into the site manager portal (React, Redux)
-- Created wireframes (Balsamiq, InVision)
+**Koto, Tyson's Corner, VA**  
+Software Engineer  
+*April 2018 &ndash; Present*  
 
 **ScoreWin LLC**  
 Owner  
@@ -52,6 +47,15 @@ Owner
 - Developed reusable components and modules (AngularJS, Angular, PHP, SASS)
 - Created wireframes (Balsamiq, InVision)
 - Designed mockups (Adobe Photoshop, Adobe Illustrator, Sketch)
+
+**Under Armour, Baltimore, MD**  
+Software Engineer &ndash; Contractor  
+*June 2017 &ndash; March 2018*  
+- Developed site manager portal which housed tooling used by customer service representatives (Node.js, Styled Components, React, Redux)
+- Migrated existing LESS styling to use Styled Components (React, Styled Components, LESS)
+- Developed API and Service endpoints (Node.js, Sequelize, Protobuf, Swagger)
+- Integrated Auth0 flow into the site manager portal (React, Redux)
+- Created wireframes (Balsamiq, InVision)
 
 **RainKing Solutions, Bethesda, MD**  
 Senior Front-End Engineer &ndash; Contractor  

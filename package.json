@@ -1,7 +1,7 @@
 {
   "name": "@stephencorwin/resume",
   "title": "Stephen Corwin Resume",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [
     "stephen corwin, resume"
   ],
@@ -9,11 +9,11 @@
   "author": "Stephen Corwin <stephenjcorwin@gmail.com> (https://stephencorwin.me/)",
   "license": "MIT",
   "repository": {
-  "type": "git",
+    "type": "git",
     "url": "https://github.com/stephencorwin/resume.git"
   },
   "bugs": {
     "url": "https://github.com/stephencorwin/resume/issues"
   },
-    "homepage": "https://github.com/stephencorwin/resume"
-  }
+  "homepage": "https://github.com/stephencorwin/resume"
+}
