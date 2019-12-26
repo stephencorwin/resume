@@ -1,19 +1,19 @@
 {
-  "name": "@stephencorwin/resume",
-  "title": "Stephen Corwin Resume",
+  "name": "@luis-martinez/resume",
+  "title": "Luis Martinez Resume",
   "version": "1.0.4",
   "keywords": [
-    "stephen corwin, resume"
+    "luis martinez, resume"
   ],
   "description": "A detailed catalog of my past work-related experiences.",
-  "author": "Stephen Corwin <stephenjcorwin@gmail.com> (https://stephencorwin.me/)",
+  "author": "Luis Martinez <luismart104@gmail.com> (https://github.com/subsage/)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stephencorwin/resume.git"
+    "url": "https://github.com/subsage/resume.git"
   },
   "bugs": {
-    "url": "https://github.com/stephencorwin/resume/issues"
+    "url": "https://github.com/subsage/resume/issues"
   },
-  "homepage": "https://github.com/stephencorwin/resume"
+  "homepage": "https://github.com/subsage/resume"
 }
