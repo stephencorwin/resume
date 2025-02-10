@@ -2,19 +2,19 @@
 [919.478.1889](tel:9194781889)
 
 # Stephen Corwin &ndash; Senior Front-End Engineer
-- 9+ years of experience as a software engineer in various industries
-- Full stack engineer with a concentration on front-end technologies
+- 12+ years of experience as a software engineer in various industries
+- JavaScript enthusiast with a focus on front-end technologies
 - Trained and mentored several front-end engineers
 - Published several open-source modules on GitHub and NPM
 - Maintainer of [@react-three/fiber](https://github.com/pmndrs/react-three-fiber/) and its community [discord server](https://discord.gg/poimandres)
 
 ## Skills / Tools
 - Programming Languages &ndash; JavaScript, TypeScript, HTML, CSS, SASS, LESS
-- Frameworks &ndash; React, Redux, Node.js, Express, Styled Components, Three.js, React Three Fiber, Threads.js
+- Frameworks and Libraries &ndash; React, Redux, Node.js, Express, Styled Components, Three.js, React Three Fiber (@react-three/fiber), Threads.js, Storybook
 - Architectural Patterns &ndash; Model View Controller, Server Side Rendering, Finite State Machine, Multi-threading
-- Methodologies &ndash; Agile, Scrum, Cross-platform Development, Object-Oriented Programming, Functional Programming, Rapid Application Development
+- Methodologies &ndash; Agile, Scrum, Cross-platform Development, Object-Oriented Programming, Functional Programming
 - UX &ndash; Mobile-first Design, Responsive Web Design, Information Architecture, Persona Classification, InVision
-- Automation Software &ndash; Webpack, Jenkins, GitHub Actions, GitLab Pipelines, Amazon Web Services
+- Automation Software &ndash; Webpack, Jest, Jenkins, GitHub Actions, GitLab Pipelines, Amazon Web Services
 - Graphic Editors &ndash; Figma, Sketch, Balsamiq Mockups, Adobe Illustrator, Adobe Photoshop
 
 ## Education
@@ -25,10 +25,13 @@
 **Zillow, Seattle, WA**  
 *Senior Software Engineer: March 2021 &ndash; Present*  
 - Developed interactive panoramic scene viewer
+- Implemented smooth panoramic transitions
+- Implemented specialized 3D viewer for the Showcase Listings product
 - Maintained floor plan viewer and its systems
+- Executed and supported numerous production deployments including A/B flagged features
 
 **Kensho, Tyson's Corner, VA**  
-*Software Engineer: April 2018 &ndash; March 2021*  
+*Senior Software Engineer: April 2018 &ndash; March 2021*  
 - Developed geopolitical analysis platform
 - Migrated existing codebase to TypeScript from JavaScript
 - Hardened the product with both unit and integration tests
@@ -38,26 +41,27 @@
 - Developed PDF viewer
 
 **Under Armour, Baltimore, MD**  
-*Software Engineer: June 2017 &ndash; March 2018 (Short Term Contract)*  
+*Senior Software Engineer: June 2017 &ndash; March 2018 (Short Term Contract)*  
 - Developed site manager portal which housed tooling used by customer service representatives
 - Migrated existing LESS styling to use Styled Components
 - Developed API and Service endpoints
 - Integrated Auth0 flow into the site manager portal
 
 **RainKing Solutions, Bethesda, MD**  
-*Software Engineer: February 2017 &ndash; June 2017 (Short Term Contract)*  
+*Senior Software Engineer: February 2017 &ndash; June 2017 (Short Term Contract)*  
 - Developed pages and components to support a new major release for their platform
+- Migrated existing platform to AngularJS (v2.0)
 - Collaborated with another consulting agency to communicate design requests and revisions
 
 **Becton Dickinson, Reston VA**  
-*Software Engineer: July 2016 &ndash; February 2017 (Short Term Contract)*  
+*Front-End Engineer: July 2016 &ndash; February 2017 (Short Term Contract)*  
 - Performed code reviews and provided technical analysis
 - Developed and integrated a medical hybrid application with bluetooth pairing, bluetooth printers, and barcode scanners
 
 **Acuity Systems LLC, Herndon, VA**  
-*Software Engineer: March 2016 &ndash; July 2016 (Short Term Contract)*  
+*UI Developer: March 2016 &ndash; July 2016 (Short Term Contract)*  
 - Designed wireframes and mockups
-- Developed Node.js API which intergrated with Web Portal with MicroStrategy Intelligence Server
+- Developed Node.js API which integrated with Web Portal with MicroStrategy Intelligence Server
 - Integrated Web Portal with GSA common components
 
 **Folio Investing, McLean, VA**  
