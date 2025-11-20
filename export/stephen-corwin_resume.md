@@ -2,7 +2,7 @@
 [919.478.1889](tel:9194781889)
 
 # Stephen Corwin &ndash; Senior Front-End Engineer
-- 12+ years of experience as a software engineer in various industries
+- 13+ years of experience as a software engineer in various industries
 - JavaScript enthusiast with a focus on front-end technologies
 - Trained and mentored several front-end engineers
 - Published several open-source modules on GitHub and NPM
