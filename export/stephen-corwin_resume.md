@@ -1,7 +1,7 @@
 > [stephenjcorwin@gmail.com](mailto:stephenjcorwin@gmail.com) | 
 [919.478.1889](tel:9194781889)
 
-# Stephen Corwin &ndash; Senior Front-End Engineer
+# Stephen Corwin &ndash; Senior Software Engineer
 - 13+ years of experience as a software engineer in various industries
 - JavaScript enthusiast with a focus on front-end technologies
 - Trained and mentored several front-end engineers
@@ -9,13 +9,12 @@
 - Maintainer of [@react-three/fiber](https://github.com/pmndrs/react-three-fiber/) and its community [discord server](https://discord.gg/poimandres)
 
 ## Skills / Tools
-- Programming Languages &ndash; JavaScript, TypeScript, HTML, CSS, SASS, LESS
+- Programming Languages &ndash; JavaScript, TypeScript, HTML, CSS
 - Frameworks and Libraries &ndash; React, Redux, Node.js, Express, Styled Components, Three.js, React Three Fiber (@react-three/fiber), Threads.js, Storybook
 - Architectural Patterns &ndash; Model View Controller, Server Side Rendering, Finite State Machine, Multi-threading
 - Methodologies &ndash; Agile, Scrum, Cross-platform Development, Object-Oriented Programming, Functional Programming
-- UX &ndash; Mobile-first Design, Responsive Web Design, Information Architecture, Persona Classification, InVision
 - Automation Software &ndash; Webpack, Jest, Jenkins, GitHub Actions, GitLab Pipelines, Amazon Web Services
-- Graphic Editors &ndash; Figma, Sketch, Balsamiq Mockups, Adobe Illustrator, Adobe Photoshop
+- Graphics Editors &ndash; Figma, Sketch, Balsamiq Mockups, Adobe Illustrator, Adobe Photoshop
 
 ## Education
 **ECPI University, VA Beach, VA**  
@@ -24,11 +23,10 @@
 ## Experience
 **Zillow, Seattle, WA**  
 *Senior Software Engineer: March 2021 &ndash; Present*  
-- Developed interactive panoramic scene viewer
-- Implemented smooth panoramic transitions
-- Implemented specialized 3D viewer for the Showcase Listings product
+- Developed interactive 3D panoramic scene viewer
+- Implemented custom shaders to support smooth transitions between panos
 - Maintained floor plan viewer and its systems
-- Executed and supported numerous production deployments including A/B flagged features
+- Triaged and resolved on-call production support requests
 
 **Kensho, Tyson's Corner, VA**  
 *Senior Software Engineer: April 2018 &ndash; March 2021*  
