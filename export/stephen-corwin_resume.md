@@ -1,7 +1,7 @@
 > [stephenjcorwin@gmail.com](mailto:stephenjcorwin@gmail.com) | 
 [919.478.1889](tel:9194781889)
 
-# Stephen Corwin &ndash; Senior Software Engineer
+# Stephen Corwin &ndash; Senior Frontend Engineer
 - 13+ years of experience as a software engineer in various industries
 - JavaScript enthusiast with a focus on front-end technologies
 - Trained and mentored several front-end engineers
