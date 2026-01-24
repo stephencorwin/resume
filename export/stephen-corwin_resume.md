@@ -22,7 +22,7 @@
 
 ## Experience
 **Zillow, Seattle, WA**  
-*Senior Software Engineer: March 2021 &ndash; Present*  
+*Senior Software Engineer: March 2021 &ndash; January 2026*  
 - Developed interactive 3D panoramic scene viewer
 - Implemented custom shaders to support smooth transitions between panos
 - Maintained floor plan viewer and its systems
